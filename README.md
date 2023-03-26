@@ -1,4 +1,4 @@
-# wordcount
+# word count
 Create a Word Counter in React 
 Set up a new React project using create-react-app or any other preferred method.
 
